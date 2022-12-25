@@ -7,6 +7,7 @@
 - [Team Members](#team-members) <a name="team-members"/>   
 - [Task Delegation](#task-delegation) <a name="task-delegation"/>
 - [Our App](#our-app) <a name="our-app"/>
+- [Tech Stack](#tech-stack) <a name="tech-stack"/>
 - [Guide to run our App on Android Studio](#guide-to-run-on-android-studio) <a name="guide-to-run-on-android-studio"/>  
 - [References](#references) <a name="references"/>    
 
@@ -45,6 +46,14 @@ Huei Ming <br />Cassandra <br />Abiya <br />Laetitia <br />Rachel
 - Swipe Mentors/Matches Page - Huei Ming
 - Calendar - Rachel
 - Profile Page - Laetitia
+
+<br/>
+
+## Tech Stack:
+Flutter &nbsp; Dart
+<br/>
+[![My Skills](https://skillicons.dev/icons?i=flutter&perline=3)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=dart&perline=3)](https://skillicons.dev)
 
 <br/>
 
