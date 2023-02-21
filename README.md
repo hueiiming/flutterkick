@@ -8,7 +8,7 @@
 - [Task Delegation](#task-delegation) <a name="task-delegation"/>
 - [Our App](#our-app) <a name="our-app"/>
 - [Tech Stack](#tech-stack) <a name="tech-stack"/>
-- [Guide to run our App on Android Studio](#guide-to-run-on-android-studio) <a name="guide-to-run-on-android-studio"/>  
+- [Guide to run our App on Android Studio](#guide-to-run-our-app-on-android-studio) <a name="guide-to-run-our-app-on-android-studio"/>  
 - [References](#references) <a name="references"/>    
 
 <br/>
